@@ -18,8 +18,8 @@ Numpy
 
 This tutorial has been adapted from [Justin Johnson](http://cs.stanford.edu/people/jcjohns/)'s CS 231n Python tutorial.
 
-We will use the Python programming language for all assignments in this course.
-Python is a great general-purpose programming language.
+We will use the Python 2.7.x for all assignments in this course.
+Python is a great general-purpose programming language. You can [download Python here](https://www.python.org/downloads/release/python-2714/).
 
 We expect that many of you will have some experience with Python;
 for the rest of you, this section will serve as a quick crash course on
