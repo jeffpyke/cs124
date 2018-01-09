@@ -69,7 +69,7 @@ print(quicksort([3,6,8,10,1,2,1]))
 There are currently two different supported versions of Python, 2.7 and 3.5.
 Somewhat confusingly, Python 3.0 introduced many backwards-incompatible changes
 to the language, so code written for 2.7 may not work under 3.5 and vice versa.
-For this class all code will use Python 3.5.
+For this class all code will use Python 2.7.
 
 You can check your Python version at the command line by running
 `python --version`.
